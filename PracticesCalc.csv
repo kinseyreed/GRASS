@@ -1,0 +1,52 @@
+"","IncentiveType","Practice","Item","Rate","Unit","Min","Max"
+"1","Implementation","Silvopasture","Establish hardwoods in existing pasture",615.83,"acre",2,25
+"2","Implementation","Silvopasture","Establish conifers in existing pasture",126.29,"acre",2,25
+"3","Implementation","Silvopasture","Establish hardwoods & native grass in open field",1351.67,"acre",2,25
+"4","Implementation","Silvopasture","Establish low-density, high value tree into existing pasture",286.44,"acre",2,25
+"5","Implementation","Silvopasture","Fencing - Polywire (w/charger)",0.42,"linear foot",0,4000
+"6","Implementation","Silvopasture","Fencing - Woven Wire",3.99,"linear foot",0,4000
+"7","Implementation","Pasture and Hay Planting","Cool season grass, legume forage",348.8,"acre",5,25
+"8","Implementation","Pasture and Hay Planting","Frost-seed legume",280.38,"acre",5,75
+"9","Implementation","Pasture and Hay Planting","Native warm season grass",277.22,"acre",5,25
+"10","Implementation","Pasture and Hay Planting","Native warm season grass mix",274.54,"acre",5,25
+"11","Implementation","Pasture and Hay Planting","Warm season, introduced forage",338.6,"acre",5,25
+"12","Implementation","Pasture and Hay Planting","Fencing - Polywire (w/charger)",0.42,"linear foot",0,4000
+"13","Implementation","Pasture and Hay Planting","Fencing - Woven Wire",3.99,"linear foot",0,4000
+"14","Implementation","Nutrient Management","Nutrient Management",34.84,"acre",5,50
+"15","Implementation","Nutrient Management","Precision Application",72.02,"acre",5,50
+"16","Implementation","Nutrient Management","Prescription Nutrient Efficiency",53.84,"acre",5,50
+"17","Implementation","Prescribed Grazing","Pasture deferment",4.42,"acre/year",10,150
+"18","Implementation","Prescribed Grazing","Pasture intensive",66.69,"acre/year",10,150
+"19","Implementation","Prescribed Grazing","Pasture standard",36.17,"acre/year",10,150
+"20","Implementation","Prescribed Grazing","Prescribed grazing management  (<5 acres*)",163.48,"acre/year",0,5
+"21","Implementation","Prescribed Grazing","Stockpiling",26.65,"acre/year",10,30
+"22","Implementation","Prescribed Grazing","Fencing - Exclusion, Barbed",3.22,"linear foot",0,4000
+"23","Implementation","Prescribed Grazing","Fencing - Exclusion, Electric",2.66,"linear foot",0,4000
+"24","Implementation","Prescribed Grazing","Fencing - Division",2.14,"linear foot",0,4000
+"25","Implementation","Prescribed Grazing","Fencing - Polywire (w/charger)",0.42,"linear foot",0,4000
+"26","Implementation","Prescribed Grazing","Fencing - Woven Wire",3.99,"linear foot",0,4000
+"27","Implementation","Prescribed Grazing","Watering Facility - 2-hole freeze proof trough",1802.14,"each",0,4
+"28","Implementation","Prescribed Grazing","Watering Facility - 4-hole freeze proof trough",2215.05,"each",0,4
+"29","Implementation","Prescribed Grazing","Watering Facility - Tire trough",2153.71,"each",0,4
+"30","Implementation","Prescribed Grazing","Watering Facility - 100-500 gallon tank",5.25,"gallon",100,500
+"31","Implementation","Prescribed Grazing","Watering Facility - 500-1,000 gallon tank",4.4,"gallon",500,1000
+"32","Implementation","Prescribed Grazing","Watering Facility - 1,000-1,500 gallon tank",1.99,"gallon",1000,1500
+"33","Implementation","Prescribed Grazing","Livestock Pipeline - Buried pipeline, rocky terrain",4.71,"foot",0,4
+"34","Implementation","Prescribed Grazing","Livestock Pipeline - Buried pipeline, all diameters",3.05,"foot",0,4
+"35","Implementation","Prescribed Grazing","Watering Facility - Freeze-proof hydrant",192.12,"each",0,4
+"36","Implementation","Prescribed Grazing","Watering Facility - Rural connection in steep topography w/reduced pressure device",2084.43,"each",0,4
+"37","Implementation","Prescribed Grazing","Watering Facility - Surface pipeline, all diameters",2,"foot",0,2500
+"38","Implementation","Prescribed Grazing","Watering Facility - Variable Frequency Drive pump",96.85,"each",0,4
+"39","Implementation","Prescribed Grazing","Watering Facility - Electric Sump Pump <= 5HP",809.82,"each",0,4
+"40","Implementation","Prescribed Grazing","Watering Facility - Livestock Nose Pump",649.01,"each",0,4
+"41","Implementation","Prescribed Grazing","Watering Facility - Photovoltaic-Powered Pump, <4kW",8292.62,"each",0,4
+"42","Implementation","Prescribed Grazing","Watering Facility - Pump <= 1.5 HP",3475.18,"each",0,4
+"43","Implementation","Prescribed Grazing","Watering Facility - Pump <= 1.5 HP in a well",4430.55,"each",0,4
+"44","Implementation","Prescribed Grazing","Watering Facility - Pump >1.5 HP but <= 10HP",887.47,"each",0,4
+"45","Carbon Bonus","Carbon Bonus","Silvopasture",186.26,"acre",0,25
+"46","Carbon Bonus","Carbon Bonus","Prescribed Grazing",8.28,"acre",0,150
+"47","Carbon Bonus","Carbon Bonus","Nutrient Management",8.28,"acre",5,50
+"48","Carbon Bonus","Carbon Bonus","Pasture and Hay Planting {Planting for High C Sequestration Rate}",4.14,"acre",0,75
+"49","Reporting","Reporting","Each Quarter",250,"quarter",0,16
+"50","Grazing School","Grazing School","Attendence Reimbursement",500,"Unit",0,1
+"51","Hosting Field Day","Hosting Field Day","Hosting Field Day",2000,"Field Day",0,1
